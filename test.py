@@ -1,1 +1,1 @@
-print('develop1 브랜치의 푸쉬')
+print('develop2 브랜치 푸쉬')
